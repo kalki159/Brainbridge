@@ -1,0 +1,21 @@
+{
+  "name": "brainbridge",
+  "version": "1.0.0",
+  "description": "an app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "brain",
+    "bridge",
+    "learn",
+    "study",
+    "partner"
+  ],
+  "author": "kalki reddy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
